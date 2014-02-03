@@ -339,7 +339,7 @@ msgstr "Açar kəlmələri siyahısındakı bir maddə:"
 
 #: ../src/edframe.cpp:1435
 msgid "Analyzing WordPress code..."
-msgstr ""
+msgstr "WordPress kodu analiz edilir..."
 
 #: ../src/export_html.cpp:191
 msgid "Automatic translation"
@@ -363,7 +363,7 @@ msgstr "Əsas yol:"
 
 #: ../src/aboutbox.cpp:119
 msgid "Based on the open source version →"
-msgstr ""
+msgstr "Açıq mənbə versiyası bazasında→"
 
 #: ../src/resources/prefs.xrc:90
 msgid "Behavior"
@@ -990,6 +990,9 @@ msgid ""
 "near-empty, it will not be very effective. The more translations\n"
 "you edit and the larger the TM grows, the better it gets."
 msgstr ""
+"Poedit aktiv olduqda yeni yazıları əvvəlki tərcümələrdən doldurmağa çalışacaq\n"
+"Əgər TY boşdursa bu o qədər də effektiv olmayacaq və\n"
+"tərcümə bazası artdıqca TY bir o qədər mükəmməl çalışacaq."
 
 #: ../src/edframe.cpp:2819
 msgid ""
@@ -1131,7 +1134,7 @@ msgstr "Fərqliliklər birləşdirilir..."
 #: ../src/tm/tm_migrate.cpp:232
 #, c-format
 msgid "Migration exit status: %d"
-msgstr ""
+msgstr "Miqrasiya çıxış statusu: %d"
 
 #: ../src/licensing.cpp:99
 msgid "Name"
@@ -1190,7 +1193,7 @@ msgstr "Yeni sətir"
 
 #: ../src/edframe.cpp:2870
 msgid "No entries could be filled from the translation memory."
-msgstr ""
+msgstr "Yazılar tərcümə yaddaşından doldurula bilməz."
 
 #: ../src/digger.cpp:186
 msgid "No files found in: "
@@ -1719,6 +1722,9 @@ msgid ""
 "is only effective for semi-automatic translations after Poedit learns enough "
 "from files that you translated manually."
 msgstr ""
+"TY bu faylın məzmununa oxşayan heç bir sətrə sahib deyil. Bu "
+"yarım-avtomatik tərcümələr üçün keçərlidir. Poedit bunları "
+"əllə tərcümə edilmiş fayllardan öyrənəcək."
 
 #: ../src/catalog.cpp:1529
 #, c-format
@@ -1758,7 +1764,7 @@ msgstr "Fayl problemsiz qeyd edildi, ancaq MO formatında baş tutmadı."
 
 #: ../src/edframe.cpp:1725
 msgid "The file was saved safely."
-msgstr ""
+msgstr "Fayl təhlükəsiz bir şəkildə qeyd edildi."
 
 #: ../src/edapp.cpp:919
 #, c-format
@@ -1768,6 +1774,10 @@ msgid ""
 "\n"
 "(%s)"
 msgstr ""
+"Bu bağlantı Poedit lisenziyasını təsdiqləmək üçün istifadə edilə bilməz. Bağlantını əllə daxil edin "
+"və ya help@poedit.net. ilə dəstək üçün əlaqə yaradın\n"
+"\n"
+"(%s)"
 
 #: ../src/licensing.cpp:109
 msgid ""
@@ -1800,6 +1810,8 @@ msgid ""
 "The translations were marked as fuzzy, because they may be inaccurate. You "
 "should review them for correctness."
 msgstr ""
+"Tərcümələrin bəzi hissələri doğru korreksiya edilmədiyi üçün, qeyri-səlis olaraq işarələnmişdir. Siz "
+"onların doğru yazıldığını yoxlamadan keçirin."
 
 #: ../src/welcomescreen.cpp:252
 msgid "There are no translations. That’s unusual."
@@ -1851,7 +1863,7 @@ msgid ""
 "of keywords, %F to list of input files,\n"
 "%C to charset flag (see below)."
 msgstr ""
-"Ayrışdırıcını işə salmaq üçün istifadə edilən əmr belədir.\n"
+"Parseri işə salmaq üçün istifadə edilən əmr belədir.\n"
 "%o çıxış faylının adı, %K açar kəlmə siyahısı,\n"
 "%F giriş fayllarının siyahısı,\n"
 " %C xarakter bayrağı(aşağıya baxın)."
