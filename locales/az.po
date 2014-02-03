@@ -339,7 +339,7 @@ msgstr "Açar kəlmələri siyahısındakı bir maddə:"
 
 #: ../src/edframe.cpp:1435
 msgid "Analyzing WordPress code..."
-msgstr ""
+msgstr "Wordpress kodu analiz edilir..."
 
 #: ../src/export_html.cpp:191
 msgid "Automatic translation"
@@ -363,7 +363,7 @@ msgstr "Əsas yol:"
 
 #: ../src/aboutbox.cpp:119
 msgid "Based on the open source version →"
-msgstr ""
+msgstr "Açıq mənbə kodu versiyası"
 
 #: ../src/resources/prefs.xrc:90
 msgid "Behavior"
@@ -989,7 +989,9 @@ msgid ""
 "translations stored in the translation memory. If the TM is\n"
 "near-empty, it will not be very effective. The more translations\n"
 "you edit and the larger the TM grows, the better it gets."
-msgstr ""
+msgstr "Əgər Poedit qoşuludursa, yeni yazıları əvvəlki tərcümələrin yaddaşda qeyd edilmiş\n"
+versiyalarından doldurmağa çalışacaq\n
+Tərcümə nə qədər çox olarsa TY bir o qədər effektiv iş qabiliyyətinə malik olacaq.\n"
 
 #: ../src/edframe.cpp:2819
 msgid ""
@@ -1131,7 +1133,7 @@ msgstr "Fərqliliklər birləşdirilir..."
 #: ../src/tm/tm_migrate.cpp:232
 #, c-format
 msgid "Migration exit status: %d"
-msgstr ""
+msgstr "Miqrasiya çıxış statusu: %d"
 
 #: ../src/licensing.cpp:99
 msgid "Name"
@@ -1190,7 +1192,7 @@ msgstr "Yeni sətir"
 
 #: ../src/edframe.cpp:2870
 msgid "No entries could be filled from the translation memory."
-msgstr ""
+msgstr "Yazılar tərcümə yaddaşından doldurula bilməz"
 
 #: ../src/digger.cpp:186
 msgid "No files found in: "
@@ -1719,7 +1721,9 @@ msgid ""
 "is only effective for semi-automatic translations after Poedit learns enough "
 "from files that you translated manually."
 msgstr ""
-
+TY bu faylın məzmununa aid heç bir sətrə sahib deyil."
+"Bu yalnız yarım-avtomatik təcümələr üçün keçərlidir"
+"Poedit onları əllə edilmiş tərcümələrdən öyrənməyə çalışacaq."
 #: ../src/catalog.cpp:1529
 #, c-format
 msgid ""
@@ -1758,7 +1762,7 @@ msgstr "Fayl problemsiz qeyd edildi, ancaq MO formatında baş tutmadı."
 
 #: ../src/edframe.cpp:1725
 msgid "The file was saved safely."
-msgstr ""
+msgstr "Fayl təhlükəsiz bir şəkildə qeyd edildi."
 
 #: ../src/edapp.cpp:919
 #, c-format
@@ -1768,6 +1772,10 @@ msgid ""
 "\n"
 "(%s)"
 msgstr ""
+"Təyin edilən bağlantı düzgün Poedit lisenziyasına aid deyil. Əllə daxil etməyə çalışın və ya "
+"help@poedit.net əlaqə dəstəyinə müraciət edin.\n"
+"\n"
+"(%s)"
 
 #: ../src/licensing.cpp:109
 msgid ""
@@ -1800,6 +1808,8 @@ msgid ""
 "The translations were marked as fuzzy, because they may be inaccurate. You "
 "should review them for correctness."
 msgstr ""
+Tərcümələr düzgün korreksiya edilmədiyi üçün qeyri-səlis olaraq işarələndi. Siz "
+"onların dəqiq yazıldığına nəzarət edin."
 
 #: ../src/welcomescreen.cpp:252
 msgid "There are no translations. That’s unusual."
